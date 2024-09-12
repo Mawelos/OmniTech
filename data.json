@@ -149,7 +149,7 @@
         "tag":"Social",
         "onion.network":false,
         "sponsorship":false,
-        "region.locked":[]
+        "region.locked":["brasil"]
     },
     {
         "url":"https://www.snapchat.com/",
