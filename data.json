@@ -3,6 +3,7 @@
         "url":"https://elementor.com/",
         "name":"Elementor",
         "tag":"Designer",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -11,6 +12,7 @@
         "url":"https://www.figma.com/",
         "name":"Figma",
         "tag":"Designer",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -19,6 +21,7 @@
         "url":"https://www.canva.com/",
         "name":"Canva",
         "tag":"Designer",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -27,6 +30,7 @@
         "url":"https://www.ifood.com/",
         "name":"Ifood",
         "tag":"Delivery",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -35,6 +39,7 @@
         "url":"https://www.ubereats.com/",
         "name":"Uber Eats",
         "tag":"Delivery",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -43,6 +48,7 @@
         "url":"https://www.rappi.com/",
         "name":"Rappi",
         "tag":"Delivery",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -51,6 +57,7 @@
         "url":"https://www.ebay.com/",
         "name":"Ebay",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -59,6 +66,7 @@
         "url":"https://www.amazon.com/",
         "name":"Amazon",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -67,6 +75,7 @@
         "url":"https://aliexpress.com/",
         "name":"AliExpress",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -75,6 +84,7 @@
         "url":"https://shopee.com/",
         "name":"Shopee",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -83,6 +93,7 @@
         "url":"https://www.temu.com/",
         "name":"Temu",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -91,6 +102,7 @@
         "url":"https://www.mercadolivre.com/",
         "name":"Mercado Livre",
         "tag":"Marketplace",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -98,6 +110,7 @@
     {
         "url":"https://shein.com/",
         "name":"Shein",
+        "default":true,
         "tag":"Marketplace",
         "onion.network":false,
         "sponsorship":false,
@@ -107,6 +120,7 @@
         "url":"https://discord.com/",
         "name":"Discord",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -115,6 +129,7 @@
         "url":"https://www.reddit.com/",
         "name":"Reddit",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -123,6 +138,7 @@
         "url":"https://www.instagram.com/",
         "name":"Instagram",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -131,6 +147,7 @@
         "url":"https://www.whatsapp.com/",
         "name":"Whatsapp",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -139,6 +156,7 @@
         "url":"https://web.telegram.org/",
         "name":"Telegram",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -147,6 +165,7 @@
         "url":"https://x.com/",
         "name":"X",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":["BR"]
@@ -155,6 +174,7 @@
         "url":"https://www.snapchat.com/",
         "name":"Snapchat",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -163,6 +183,7 @@
         "url":"https://www.omegle.fun/",
         "name":"Omegle",
         "tag":"Social",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -171,6 +192,7 @@
         "url":"https://www.hbo.com/",
         "name":"HBO",
         "tag":"Streaming",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -179,6 +201,7 @@
         "url":"https://www.netflix.com/",
         "name":"Netflix",
         "tag":"Streaming",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -187,6 +210,7 @@
         "url":"https://www.primevideo.com/",
         "name":"Prime Video",
         "tag":"Streaming",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -195,6 +219,7 @@
         "url":"https://www.disneyplus.com/",
         "name":"Disney Plus",
         "tag":"Streaming",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -203,6 +228,7 @@
         "url":"https://www.twitch.tv/",
         "name":"Twitch",
         "tag":"Streaming",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -211,6 +237,7 @@
         "url":"https://www.youtube.com/",
         "name":"Youtube",
         "tag":"General",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -219,6 +246,7 @@
         "url":"https://www.deepl.com/",
         "name":"Deepl",
         "tag":"General",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -227,6 +255,7 @@
         "url":"https://linkedin.com",
         "name":"Linkedin",
         "tag":"General",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -235,6 +264,7 @@
         "url":"https://github.com/",
         "name":"Github",
         "tag":"General",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
@@ -243,6 +273,7 @@
         "url":"https://openai.com/chatgpt/",
         "name":"Chat GPT",
         "tag":"AI",
+        "default":true,
         "onion.network":false,
         "sponsorship":false,
         "region.locked":[]
