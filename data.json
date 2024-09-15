@@ -27,6 +27,15 @@
         "region.locked":[]
     },
     {
+        "url":"https://colorhunt.co",
+        "name":"Color Hunt",
+        "tag":"Designer",
+        "default":true,
+        "onion.network":false,
+        "sponsorship":false,
+        "region.locked":[]
+    },
+    {
         "url":"https://www.ifood.com/",
         "name":"Ifood",
         "tag":"Delivery",
